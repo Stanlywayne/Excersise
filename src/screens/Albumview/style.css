@@ -1,0 +1,8 @@
+div.product{
+    display:block;
+    float: left;
+    border: 1px solid  black;
+    width: 200px;
+    margin: 106px;
+    padding: 40px;
+}
